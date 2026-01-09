@@ -1,0 +1,12 @@
+’¦ §¨¦žš¦ç£œ¤¦  ©«¦¨ ¡æ œå¤˜  ©«¦ tans5.c
+ VERS  A¢¢˜šã ã ¤â¦ ã ˜¢¢˜š£â¤¦ ˜¨®œå¦
+B1.24  tans5.c
+       B124.ver
+       tancopy.bat
+       \turboc\tan -> \tan
+       *.c -> src\*.c
+       (parameter_files) -> prm\(parameter_files)
+       by default type char configured as unsined char
+       €¢¢˜šã › ˜®œå¨ž©žª §¨¦š¨á££˜«¦ª
+B1.25  tans5.c: clrscr æ«˜¤ «œ¢œ é¤œ 
+       ¤œ˜ function: gchar() £œ ®¨ž© £. «¦¬ bioskey(0)
